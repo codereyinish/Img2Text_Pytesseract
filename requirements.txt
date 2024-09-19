@@ -1,0 +1,5 @@
+pytesseract==0.3.13
+streamlit==1.38.0
+pillow_heif==0.18.0
+pyngrok==7.2.0
+
